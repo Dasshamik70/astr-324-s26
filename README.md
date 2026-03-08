@@ -1,2 +1,3 @@
 # astr-324-s26
-Spring 2026 materials for Astr 324
+Materials for Spring 2026 version of Astr 324 (AstroStatistics) 
+ 
